@@ -1,0 +1,16 @@
+{
+  "name": "hw12",
+  "version": "1.0.0",
+  "description": "search and edit employee tracker",
+  "main": "employee_tracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mel C",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
