@@ -3,6 +3,7 @@
 Project Title: Employee Tracker
 
 Description: This project uses node, express and MySQL to track a client's employees. The business owner wants to be able to view and manage the departments, roles and employees in their company so they can organize and plan their business. The database schema contains three tables: employees, roles, and departments.
+
     departments:
         id - INT PRIMARY KEY
         name - VARCHAR(30) to hold department name
