@@ -1,9 +1,8 @@
 # Employee-Tracker
 
-# Project Title: Employee Tracker
+Project Title: Employee Tracker
 
-# Description: 
-This project uses node, express and MySQL to track a client's employees. The business owner wants to be able to view and manage the departments, roles and employees in their company so they can organize and plan their business. The database schema contains three tables: employees, roles, and departments.
+Description: This project uses node, express and MySQL to track a client's employees. The business owner wants to be able to view and manage the departments, roles and employees in their company so they can organize and plan their business. The database schema contains three tables: employees, roles, and departments.
     departments:
         id - INT PRIMARY KEY
         name - VARCHAR(30) to hold department name
@@ -26,11 +25,8 @@ This project uses node, express and MySQL to track a client's employees. The bus
         View departments, roles, employees
         Update employee roles
 
-# Installation: 
-Be sure to use npm init, install, mysql, express, inquirer. Change the appropriate user and password in employee_tracker.js file. Load employee_DB.sql into MySQL. 
+Installation: Be sure to use npm init, install, mysql, express, inquirer. Change the appropriate user and password in employee_tracker.js file. Load employee_DB.sql into MySQL. 
 
-# To Run: 
-node employee_tracker.js 
+To Run: node employee_tracker.js 
 
-# Authored By:
-Melanie Cisler
+Authored By: Melanie Cisler
