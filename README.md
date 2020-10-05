@@ -34,4 +34,4 @@ Authored By: Melanie Cisler
 
 Demo Video: https://drive.google.com/file/d/1o02vmPeuVxMV7eKOJ03a18VB2PIrtZiJ/view  
 
-Images: demo screen shots in "Images" folder
+Images: demo screen shots in "images" folder
