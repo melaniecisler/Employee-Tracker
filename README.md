@@ -31,3 +31,5 @@ Installation: Be sure to use npm init, install, mysql, express, inquirer. Change
 To Run: node employee_tracker.js 
 
 Authored By: Melanie Cisler
+
+Demo Video: https://drive.google.com/file/d/1o02vmPeuVxMV7eKOJ03a18VB2PIrtZiJ/view  
